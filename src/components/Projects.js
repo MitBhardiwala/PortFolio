@@ -4,7 +4,8 @@ import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import { ProjectCard } from './ProjectCard';
 import projImg1 from '../assets/img/Sample.png';
 import projImg2 from '../assets/img/Supermarket_System_Sample.png';
-import colorSharp2 from '../assets/img/color-sharp2.png'; // Import the image
+import colorSharp2 from '../assets/img/color-sharp2.png'; // Import the image\
+import projImg3 from 'src\assets\img\project-img4.png'
 
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -22,6 +23,12 @@ export const Projects = () => {
       description: 'Python MySql',
       imgUrl: projImg2,
       gitLink: 'https://github.com/MitBhardiwala/SuperMarket-Management-System',
+    },
+    {
+      title: 'Walmart Sales Forecast',
+      description: 'Machine Learning Flask',
+      imgUrl: projImg3,
+      gitLink: 'https://github.com/MitBhardiwala/SI-GuidedProject-607041-1698684605',
     },
   ];
 
