@@ -29,7 +29,7 @@ export const Projects = () => {
       title: 'Walmart Sales Forecast',
       description: 'Machine Learning Flask',
       imgUrl: projImg3,
-      gitLink: 'https://github.com/MitBhardiwala/SI-GuidedProject-607041-1698684605',
+      gitLink: 'https://github.com/MitBhardiwala/Online-Bike-Showroom',
     },
     {
       title: 'Online Bike Showroom',
