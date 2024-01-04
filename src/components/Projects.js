@@ -29,13 +29,13 @@ export const Projects = () => {
       title: 'Walmart Sales Forecast',
       description: 'Machine Learning Flask',
       imgUrl: projImg3,
-      gitLink: 'https://github.com/MitBhardiwala/Online-Bike-Showroom',
+      gitLink: 'https://github.com/MitBhardiwala/SI-GuidedProject-607041-1698684605',
     },
     {
       title: 'Online Bike Showroom',
       description: 'ReactJS NodeJS MongoDB Firebase',
       imgUrl: projImg5,
-      gitLink: 'https://online-bike-showroom-eight.vercel.app/',
+      gitLink: 'https://github.com/MitBhardiwala/Online-Bike-Showroom',
     },
   ];
 
